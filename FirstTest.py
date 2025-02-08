@@ -6,3 +6,6 @@ print("Animal Kindom class")
 print("SOS sign")
 print("Gender")
 print("Age Limit")
+print("Light paint")
+print("Glass House")
+
